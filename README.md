@@ -61,4 +61,4 @@ ChatGPT was used as a learning aid to understand file descriptors, the `read()` 
 
 **42 Irbid — Common Core**
 
-**Project: Libft**
+**Project: Get Next Line**
